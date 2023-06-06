@@ -1,0 +1,6 @@
+numpy
+djitellopy
+opencv-python
+PyQt5
+pyqt5-tools
+easygui
